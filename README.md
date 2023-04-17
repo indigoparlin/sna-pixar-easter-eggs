@@ -21,12 +21,19 @@ We utilized Python Package Networkx to compute our results in a Google Colab Not
 
 ## Results
 **Movie most referenced by others:** Toy Story (1995)
+
 **Least referenced movie:** Elemental (2023)
+
 **Highest degree centrality:** Toy Story (1995)
+
 **Lowest degree centrality:** Elemental (2023)
+
 **Closeness centrality:** Toy Story (1995), followed by Monsters, Inc. (2001)
+
 **Highest eigenvector centrality:** Toy Story (1995), followed by Monsters, Inc. (2001) and Finding Nemo (2003)
+
 **Highest betweenness centrality:** Finding Nemo (2003), followed by Toy Story (1995)
+
 
 **PageRank Results:**
 The top three movies with the highest PageRank score are: Toy Story (1995), A Bug’s Life (1998), and Toy Story 2 (1999). 
