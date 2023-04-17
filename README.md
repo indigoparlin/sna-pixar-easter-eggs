@@ -1,6 +1,8 @@
 # sna-pixar-easter-eggs
 This repository is for our Social Network Analysis project, Pixar Easter Eggs. 
 
-## Introduction
+## Contents
 
-some more text
+1. Google Colab Notebook
+2. Easter Eggs Data 'eastereggs.csv'
+3. Google Slides
