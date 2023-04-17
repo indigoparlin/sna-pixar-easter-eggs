@@ -20,19 +20,19 @@ In order to create our initial dataset, we researched easter eggs from each Disn
 We utilized Python Package Networkx to compute our results in a Google Colab Notebook. You can view our [eastereggs.csv](https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/eastereggs.csv) and [pixareastereggs.ipynb](https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/pixareastereggs.ipynb) in this repository. 
 
 ## Results
-Movie most referenced by others: Toy Story (1995)
-Least referenced movie: Elemental (2023)
-Highest degree centrality: Toy Story (1995)
-Lowest degree centrality: Elemental (2023)
-Highest closeness centrality: Toy Story (1995), followed by Monsters, Inc. (2001)
-Highest eigenvector centrality: Toy Story (1995), followed by Monsters, Inc. (2001) and Finding Nemo (2003)
-Highest betweenness centrality: Finding Nemo (2003), followed by Toy Story (1995)
+**Movie most referenced by others:** Toy Story (1995)
+**Least referenced movie:** Elemental (2023)
+**Highest degree centrality:** Toy Story (1995)
+**Lowest degree centrality:** Elemental (2023)
+**Closeness centrality:** Toy Story (1995), followed by Monsters, Inc. (2001)
+**Highest eigenvector centrality:** Toy Story (1995), followed by Monsters, Inc. (2001) and Finding Nemo (2003)
+**Highest betweenness centrality:** Finding Nemo (2003), followed by Toy Story (1995)
 
-PageRank Results: 
+**PageRank Results:**
 The top three movies with the highest PageRank score are: Toy Story (1995), A Bug’s Life (1998), and Toy Story 2 (1999). 
 The bottom three movies with the lowest PageRank score are: Turning Red (2022), Lightyear (2022), and Elemental (2023). 
 
-The histogram chart represents the degree distribution of all the Pixar films by counting the occurrence of each degree. For example, the graph shows how 4 films have a degree of 18 (Finding Nemo, Toy Story 3, Inside Out, and Soul). The highest degree is 28, corresponding to Toy Story. This aligns with our earlier data in which Toy Story has repetitively had the most references to it from other films. In contrast, Elemental, which has not been released yet, has just one reference to it from another film. Nodes of degree 2, 3, 4, 14, and 21-26 are non-existent. 
+The **histogram chart** represents the degree distribution of all the Pixar films by counting the occurrence of each degree. For example, the graph shows how 4 films have a degree of 18 (Finding Nemo, Toy Story 3, Inside Out, and Soul). The highest degree is 28, corresponding to Toy Story. This aligns with our earlier data in which Toy Story has repetitively had the most references to it from other films. In contrast, Elemental, which has not been released yet, has just one reference to it from another film. Nodes of degree 2, 3, 4, 14, and 21-26 are non-existent. 
 
 
 
