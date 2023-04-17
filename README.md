@@ -4,5 +4,5 @@ This repository is for our Social Network Analysis project, Pixar Easter Eggs. C
 ## Contents
 
 1. Google Colab Notebook
-2. [Easter Eggs Data] (https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/eastereggs.csv)
+2. [Easter Eggs Data](https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/eastereggs.csv)
 3. Google Slides
