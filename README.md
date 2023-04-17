@@ -20,6 +20,7 @@ In order to create our initial dataset, we researched easter eggs from each Disn
 We utilized Python Package Networkx to compute our results in a Google Colab Notebook. You can view our [eastereggs.csv](https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/eastereggs.csv) and [pixareastereggs.ipynb](https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/pixareastereggs.ipynb) in this repository. 
 
 ## Results
+![Graph produced by Networkx}(https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/graph.png)
 **Movie most referenced by others:** Toy Story (1995)
 
 **Least referenced movie:** Elemental (2023)
