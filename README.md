@@ -1,4 +1,4 @@
-# sna-pixar-easter-eggs
+# SNA Final Project: Pixar Easter Eggs
 This repository is for our Social Network Analysis project, Pixar Easter Eggs. 
 
 ## Contents
