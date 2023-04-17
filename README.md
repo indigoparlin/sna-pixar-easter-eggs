@@ -41,7 +41,7 @@ The bottom three movies with the lowest PageRank score are: Turning Red (2022), 
 
 The **histogram chart** represents the degree distribution of all the Pixar films by counting the occurrence of each degree. For example, the graph shows how 4 films have a degree of 18 (Finding Nemo, Toy Story 3, Inside Out, and Soul). The highest degree is 28, corresponding to Toy Story. This aligns with our earlier data in which Toy Story has repetitively had the most references to it from other films. In contrast, Elemental, which has not been released yet, has just one reference to it from another film. Nodes of degree 2, 3, 4, 14, and 21-26 are non-existent. 
 
-![Annotated screenshot of histogram from Google Colab notebook.]
+![Annotated screenshot of histogram from Google Colab notebook.](https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/degreehistogram.png)
 
 
 
