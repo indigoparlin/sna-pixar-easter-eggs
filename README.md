@@ -7,6 +7,7 @@ This repository is for our Social Network Analysis project, Pixar Easter Eggs. C
 2. [Easter Eggs Data](https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/eastereggs.csv)
 3. [Google Slides](https://docs.google.com/presentation/d/1xjNP8PlhvaJi9nlzC-gwyqk15EAO6tIywFo-Z-hkzDY/edit?usp=sharing)
 4. [List of Data Sources](https://github.com/indigoparlin/sna-pixar-easter-eggs/blob/main/sources.txt)
+5. [Easter Eggs Data Descriptive] 
 
 
 ## Question
